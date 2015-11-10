@@ -1,0 +1,11 @@
+{
+  "applications": {
+    "PhotoTalk": {
+      "parseAppId": "Yb9naMXq8w69emEeoFMhBLDiDUz4IxEPxbi2dY9G",
+      "herokuAppId": "3da8c50b-d0b0-4588-8088-b4ea9416e58b"
+    },
+    "_default": {
+      "link": "PhotoTalk"
+    }
+  }
+}
